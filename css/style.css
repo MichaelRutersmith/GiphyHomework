@@ -1,0 +1,21 @@
+.container {
+   
+}
+button,
+    div,
+    form,
+    input {
+      display: inline-block;
+      margin: 10px;
+    }
+
+#giphys-view {
+  display: inline;
+  
+}
+
+#giphys-view {
+  margin: 5px;
+  padding: 5px
+  ; 
+}
